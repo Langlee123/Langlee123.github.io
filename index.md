@@ -3,21 +3,6 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
-
-## About this Site
-
-This project is a slight customization based off of some great work by 
-  [NC State University Libraries](https://www.lib.ncsu.edu/).
-  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
-  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
-
-
-## Creating Your Own
-
-To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
-  There you'll find a basic [guide](/blog/getting-started) that will help you
-  create your new site.
+I am a PhD student at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. My research direction is on-chip quantum communication for quantum Internet. My research is mainly based on integrated quantum photonics to transform the mechanism innovation of basic science into a major technological breakthrough, so as to further promote the large-scale, efficient and secure deployment of quantum resources in the quantum Internet, including but not limited to continuous variable quantum communication, quantum access network, and the integration mechanism of quantum communication and sensing that breaks the basic physical limits. On-chip device independent/semi-device independent quantum random number generation, etc.   
+I am currently looking for a postdoctoral position.
   
