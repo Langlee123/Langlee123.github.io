@@ -11,14 +11,13 @@ A Fifth year PhD at State Key Laboratory of Advanced Optical Communication Syste
 __Doctor of Engineering:__ <span style="float:right;">`(09/2020-Present)`</span>     
 Shanghai Jiao Tong University (SJTU), Shanghai, China (09/2020-Present)   
 ​
-
-`(09/2016-06/2020)` 
-__Bachelor of Engineering:__    
+__Bachelor of Engineering:__ <span style="float:right;">`(09/2016-06/2020)`</span>     
 Chongqing University (CQU), Chongqing, China (09/2020-Present)     
 
-`(09/2024–04/2025)` 
-__Visiting Scholar:__    
-Joint PhD program, Centre for Quantum Technologies (CQT), National University of Singapore (NUS) under the supervision of Prof. Chao Wang and Prof. Charles Lim (09/2024–04/2025)  
+__Visiting Scholar:__ <span style="float:right;">`(09/2024–04/2025)`</span>     
+Joint PhD program, Centre for Quantum Technologies (CQT),    
+National University of Singapore (NUS) under the supervision    
+of Prof. Chao Wang and Prof. Charles Lim (09/2024–04/2025)   
 
 ## Selected Publications
 
@@ -37,60 +36,42 @@ __The full list is available [online](https://www.researchgate.net/profile/Lang-
 
 ## Presentations
 
-`(07/2023)`
-Photonics & Electromagnetics Research Symposium (PIERS),   
+Photonics & Electromagnetics Research Symposium (PIERS), <span style="float:right;">`(07/2023)`</span>    
 Prague, the Czech Republic
 
 ## Honors & Awards
 
-`SJTU, One time (2022)`
-President's Award of Shanghai Jiao Tong University 
+President's Award of Shanghai Jiao Tong University <span style="float:right;">`SJTU, One time (2022)`</span>     
 
-`SJTU (2021-2022)`
-President of the Student Union, School of Electronic Information and Electrical Engineering 
+President of the Student Union, School of Electronic Information and Electrical Engineering <span style="float:right;">`SJTU (2021-2022)`</span>    
 
-`SJTU, Three times (2021, 2022, 2023)`
-The First Prize Scholarship for Doctor Program
+The First Prize Scholarship for Doctor Program <span style="float:right;">`SJTU, Three times (2021, 2022, 2023)`</span>    
 
-`SJTU, Three times (2021, 2022, 2023)`
-Outstanding doctoral student First Prize
+Outstanding doctoral student First Prize <span style="float:right;">`SJTU, Three times (2021, 2022, 2023)`</span>    
 
-`SJTU, Three times (2021, 2022, 2023)`
-Annual first prize fellowship for outstanding doctoral students 
+Annual first prize fellowship for outstanding doctoral students <span style="float:right;">`SJTU, Three times (2021, 2022, 2023)`</span>     
 
-`SJTU, One time (2020-2021)`
-Shanghai Jiao Tong University annual outstanding student 
+Shanghai Jiao Tong University annual outstanding student <span style="float:right;">`SJTU, One time (2020-2021)`</span>    
 
-`SJTU, One time (2022-2023)`
-Doctoral scholarship for Excellence 
+Doctoral scholarship for Excellence <span style="float:right;">`SJTU, One time (2022-2023)`</span>    
 
-`CQU, One time (2020)`
-Excellent undergraduate graduate of Chongqing University 
+Excellent undergraduate graduate of Chongqing University <span style="float:right;">`CQU, One time (2020)`</span>    
 
-`Chongqing Municipality，One time (2020)`
-Outstanding contributor to Chongqing's innovation capability  
+Outstanding contributor to Chongqing's innovation capability <span style="float:right;">`Chongqing Municipality，One time (2020)`</span>     
 
-`CQU, One time (2019)`
-Outstanding student of academic science and Technology innovation of Chongqing University 
+Outstanding student of academic science and Technology innovation of Chongqing University <span style="float:right;">`CQU, One time (2019)`</span>    
 
-`CQU, One time (2019)`
-Outstanding student in innovation and entrepreneurship of Chongqing University  
+Outstanding student in innovation and entrepreneurship of Chongqing University <span style="float:right;">`CQU, One time (2019)`</span>     
 
-`CQU, One time (2019)`
-Outstanding student of Chongqing University  
+Outstanding student of Chongqing University <span style="float:right;">`CQU, One time (2019)`</span>     
 
-`CQU, One time (2018)`
-Excellent student leader of Chongqing University  
+Excellent student leader of Chongqing University <span style="float:right;">`CQU, One time (2018)`</span>      
 
-`CQU, One time (2017)`
-Excellent individual in social practice of Chongqing University  
+Excellent individual in social practice of Chongqing University <span style="float:right;">`CQU, One time (2017)`</span>     
 
-`One time (2017)`
-Grand Prize in the Mathorcup Global Mathematical Contest in Modeling for University Student  
+Grand Prize in the Mathorcup Global Mathematical Contest in Modeling for University Student <span style="float:right;">`One time (2017)`</span>     
 
-`One time (2017)`
-Second prize in the National Calculus Competition  
+Second prize in the National Calculus Competition <span style="float:right;">`One time (2017)`</span>     
 
-`One time (2017)`
-The third China "Internet Empowerment" Innovation and Entrepreneurship Competition Chongqing Gold Medal 
+The third China "Internet Empowerment" Innovation and Entrepreneurship Competition Chongqing Gold Medal <span style="float:right;">`One time (2017)`</span>    
 
