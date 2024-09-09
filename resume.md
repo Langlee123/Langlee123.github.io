@@ -41,33 +41,33 @@ Prague, the Czech Republic
 
 ## Honors & Awards
 
-President's Award of Shanghai Jiao Tong University <span style="float:right;">`SJTU (2022)`</span>     
+President's Award of Shanghai Jiao Tong University <span style="float:right;">`SJTU(2022)`</span>     
 
-President of the Student Union, School of Electronic Information and Electrical Engineering <span style="float:right;">`SJTU (2021-2022)`</span>    
+President of the Student Union, School of Electronic Information and Electrical Engineering <span style="float:right;">`SJTU(2021-2022)`</span>    
 
-The First Prize Scholarship for Doctor Program <span style="float:right;">`SJTU (2021, 2022, 2023)`</span>    
+The First Prize Scholarship for Doctor Program <span style="float:right;">`SJTU(2021,2022,2023)`</span>    
 
-Outstanding doctoral student First Prize <span style="float:right;">`SJTU (2021, 2022, 2023)`</span>    
+Outstanding doctoral student First Prize <span style="float:right;">`SJTU(2021,2022,2023)`</span>    
 
-Annual first prize fellowship for outstanding doctoral students <span style="float:right;">`SJTU (2021, 2022, 2023)`</span>     
+Annual first prize fellowship for outstanding doctoral students <span style="float:right;">`SJTU(2021,2022,2023)`</span>     
 
-Shanghai Jiao Tong University annual outstanding student <span style="float:right;">`SJTU (2020-2021)`</span>    
+Shanghai Jiao Tong University annual outstanding student <span style="float:right;">`SJTU(2020-2021)`</span>    
 
-Doctoral scholarship for Excellence <span style="float:right;">`SJTU (2022-2023)`</span>    
+Doctoral scholarship for Excellence <span style="float:right;">`SJTU(2022-2023)`</span>    
 
-Excellent undergraduate graduate <span style="float:right;">`CQU (2020)`</span>    
+Excellent undergraduate graduate <span style="float:right;">`CQU(2020)`</span>    
 
-Outstanding contributor to Chongqing's innovation capability <span style="float:right;">`Chongqing Municipality (2020)`</span>     
+Outstanding contributor to Chongqing's innovation capability <span style="float:right;">`Chongqing Municipality(2020)`</span>     
 
-Outstanding student of academic science and Technology innovation <span style="float:right;">`CQU (2019)`</span>    
+Outstanding student of academic science and Technology innovation <span style="float:right;">`CQU(2019)`</span>    
 
-Outstanding student in innovation and entrepreneurship <span style="float:right;">`CQU (2019)`</span>     
+Outstanding student in innovation and entrepreneurship <span style="float:right;">`CQU(2019)`</span>     
 
-Outstanding student of Chongqing University <span style="float:right;">`CQU (2019)`</span>     
+Outstanding student of Chongqing University <span style="float:right;">`CQU(2019)`</span>     
 
-Excellent student leader of Chongqing University <span style="float:right;">`CQU (2018)`</span>      
+Excellent student leader of Chongqing University <span style="float:right;">`CQU(2018)`</span>      
 
-Excellent individual in social practice of Chongqing University <span style="float:right;">`CQU (2017)`</span>     
+Excellent individual in social practice of Chongqing University <span style="float:right;">`CQU(2017)`</span>     
 
 Grand Prize in the Mathorcup Global Mathematical Contest in Modeling for University Student <span style="float:right;">`(2017)`</span>     
 
