@@ -18,7 +18,8 @@ Chongqing University (CQU), Chongqing, China
 
 `09/2024–04/2025` 
 __Visiting Scholar:__    
-Joint PhD program, Centre for Quantum Technologies (CQT), National University of Singapore (NUS)    
+Joint PhD program, Centre for Quantum Technologies (CQT),   
+National University of Singapore (NUS)    
 under the supervision of Prof. Chao Wang and Prof. Charles Lim   
 
 ## Honors & Awards
