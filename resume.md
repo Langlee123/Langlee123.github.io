@@ -23,6 +23,27 @@ Joint PhD program, Centre for Quantum Technologies (CQT),
 National University of Singapore (NUS) under the supervision    
 of Prof. Chao Wang and Prof. Charles Lim   
 
+## Selected Publications
+
+- paper 1
+- paper 2
+
+__The full list is available [online](https://www.researchgate.net/profile/Lang-Li-14).__
+
+## Patents
+
+- Huang, P., Li, L., Zeng, G., An accurate estimation method of quantum efficiency based on light intensity monitoring and deep neural networks, Invention patent, No.CN113810186B, authorized, __2023__
+
+- Huang, P., Li, L., Zeng, G., Fast estimation of quantum efficiency by interval segmentation based on light intensity monitoring, Invention patent, No.CN113836524B, authorized, __2022__
+
+- Huang, P., Li, L., Zeng, G., Defense method and system of security vulnerability in realistic on-chip CV-QKD system, Invention patent, No.CN113055167A, authorized, __2021__
+
+## Presentations
+
+`(07/2023)`
+Photonics & Electromagnetics Research Symposium (PIERS),   
+Prague, the Czech Republic
+
 ## Honors & Awards
 
 `SJTU, One time (2022)`
@@ -75,22 +96,4 @@ Second prize in the National Calculus Competition
 
 `One time (2017)`
 The third China "Internet Empowerment" Innovation and Entrepreneurship Competition Chongqing Gold Medal 
-
-## Selected Publications
-
-The full list is available [online](https://www.researchgate.net/profile/Lang-Li-14).
-
-## Patents
-
-- Huang, P., Li, L., Zeng, G., An accurate estimation method of quantum efficiency based on light intensity monitoring and deep neural networks, Invention patent, No.CN113810186B, authorized, __2023__
-
-- Huang, P., Li, L., Zeng, G., Fast estimation of quantum efficiency by interval segmentation based on light intensity monitoring, Invention patent, No.CN113836524B, authorized, __2022__
-
-- Huang, P., Li, L., Zeng, G., Defense method and system of security vulnerability in realistic on-chip CV-QKD system, Invention patent, No.CN113055167A, authorized, __2021__
-
-## Presentations
-
-`(07/2023)`
-Photonics & Electromagnetics Research Symposium (PIERS),   
-Prague, the Czech Republic
 
