@@ -8,7 +8,7 @@ A Fifth year PhD at State Key Laboratory of Advanced Optical Communication Syste
 
 ## Education
 
-__Doctor of Engineering:__ <span class="right">`(09/2020-Present)`</span>     
+__Doctor of Engineering:__ <span style="float:right;">`(09/2020-Present)`</span>     
 Shanghai Jiao Tong University (SJTU), Shanghai, China (09/2020-Present)   
 ​
 
