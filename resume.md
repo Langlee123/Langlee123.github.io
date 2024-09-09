@@ -5,12 +5,13 @@ layout: resume
 
 ## Currently
 
-Fifth year PhD at State Key Laboratory of Advanced Optical Communication Systems and Networks,   
-Institute of Quantum Sensing and Information Processing,   
-Shanghai Jiao Tong University,   
-Shanghai 200240, P.R. China   
+A Fifth year PhD at State Key Laboratory of Advanced Optical Communication Systems and Networks, Institute of Quantum Sensing and Information Processing, __Shanghai Jiao Tong University__, Shanghai 200240, P.R. China   
 
 ## Education
+
+`(09/2020-Present)`
+__Doctor of Engineering:__    
+Shanghai Jiao Tong University (SJTU), Shanghai, China 
 
 `(09/2016-06/2020)` 
 __Bachelor of Engineering:__    
@@ -19,8 +20,8 @@ Chongqing University (CQU), Chongqing, China
 `(09/2024–04/2025)` 
 __Visiting Scholar:__    
 Joint PhD program, Centre for Quantum Technologies (CQT),   
-National University of Singapore (NUS)    
-under the supervision of Prof. Chao Wang and Prof. Charles Lim   
+National University of Singapore (NUS) under the supervision    
+of Prof. Chao Wang and Prof. Charles Lim   
 
 ## Honors & Awards
 
