@@ -12,11 +12,11 @@ Shanghai 200240, P.R. China
 
 ## Education
 
-`09/2016-06/2020` 
+`(09/2016-06/2020)` 
 __Bachelor of Engineering:__    
 Chongqing University (CQU), Chongqing, China     
 
-`09/2024–04/2025` 
+`(09/2024–04/2025)` 
 __Visiting Scholar:__    
 Joint PhD program, Centre for Quantum Technologies (CQT),   
 National University of Singapore (NUS)    
@@ -81,11 +81,11 @@ The full list is available [online](https://www.researchgate.net/profile/Lang-Li
 
 ## Patents
 
-- Huang, P., Li, L., Zeng, G., An accurate estimation method of quantum efficiency based on light intensity monitoring and deep neural networks, Invention patent, No.CN113810186B, authorized,__2023__
+- Huang, P., Li, L., Zeng, G., An accurate estimation method of quantum efficiency based on light intensity monitoring and deep neural networks, Invention patent, No.CN113810186B, authorized, __2023__
 
-- Huang, P., Li, L., Zeng, G., Fast estimation of quantum efficiency by interval segmentation based on light intensity monitoring, Invention patent, No.CN113836524B, authorized,__2022__
+- Huang, P., Li, L., Zeng, G., Fast estimation of quantum efficiency by interval segmentation based on light intensity monitoring, Invention patent, No.CN113836524B, authorized, __2022__
 
-- Huang, P., Li, L., Zeng, G., Defense method and system of security vulnerability in realistic on-chip CV-QKD system, Invention patent, No.CN113055167A, authorized,__2021__
+- Huang, P., Li, L., Zeng, G., Defense method and system of security vulnerability in realistic on-chip CV-QKD system, Invention patent, No.CN113055167A, authorized, __2021__
 
 ## Presentations
 
